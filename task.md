@@ -1,8 +1,8 @@
-**# Test**
+# **Test**
 
 You have three tasks to complete. The task descriptions are in the README files of their corresponding folders.
 
-**### Workflow**
+### **Workflow**
 
 1. Copy this repository (don’t fork it please).
 2. Complete the tasks.
